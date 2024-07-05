@@ -6,6 +6,7 @@
 <br>
 👨🏻‍💻 - Aprocura de um Estagio em Desenvolvimento
 
+ <hr>
 <div>
   
 ![javascripit](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -14,7 +15,7 @@
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
 
 </div>
-
+ <hr>
 <br>
  
 <div>
@@ -24,7 +25,7 @@
 </div>
 
 
-
+ <hr>
 
   <img align="right"  height="150" width="150" src="https://media.tenor.com/Hgsv_IXi7CAAAAAi/fly-away-din-djarin.gif">
     <img align="left"  height="150" width="150" src="https://media.tenor.com/iB2zknoEp94AAAAi/shooting-fire-din-djarin.gif">
