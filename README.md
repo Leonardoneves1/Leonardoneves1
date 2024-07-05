@@ -1,7 +1,9 @@
 ### Olá! eu sou o Leonardo Neves ✌🏼
 ## Atualmente:
 📚 - Estudando Java Script, Python HTML CSS e SQL
+<br>
 🔭 - Curso Engenharia de software na Estacio ...
+<br>
 👨🏻‍💻 - Aprocura de um Estagio em Desenvolvimento
 
 <div>
